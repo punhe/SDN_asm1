@@ -1,0 +1,77 @@
+[
+	{
+		"_id": {
+			"$oid": "66db2cde9e6285b5788901de"
+		},
+		"title": "Quiz 1",
+		"description": "This is a general knowledge quiz",
+		"questions": [
+			{
+				"$oid": "66db2abb1fd7f2ea4238d54c"
+			},
+			{
+				"$oid": "66db2ad91fd7f2ea4238d552"
+			},
+			{
+				"$oid": "66db2b1c1fd7f2ea4238d568"
+			},
+			{
+				"$oid": "66db2b071fd7f2ea4238d560"
+			},
+			{
+				"$oid": "66db2adf1fd7f2ea4238d554"
+			}
+		],
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2ce59e6285b5788901e0"
+		},
+		"title": "Quiz 2",
+		"description": "This is a general knowledge quiz",
+		"questions": [
+			{
+				"$oid": "66db2ac71fd7f2ea4238d54e"
+			},
+			{
+				"$oid": "66db2b0c1fd7f2ea4238d562"
+			},
+			{
+				"$oid": "66db2ae71fd7f2ea4238d556"
+			},
+			{
+				"$oid": "66db2aed1fd7f2ea4238d558"
+			},
+			{
+				"$oid": "66db2b171fd7f2ea4238d566"
+			}
+		],
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2ceb9e6285b5788901e2"
+		},
+		"title": "Quiz 3",
+		"description": "This is a general knowledge quiz",
+		"questions": [
+			{
+				"$oid": "66db2b001fd7f2ea4238d55e"
+			},
+			{
+				"$oid": "66db2ad21fd7f2ea4238d550"
+			},
+			{
+				"$oid": "66db2af41fd7f2ea4238d55a"
+			},
+			{
+				"$oid": "66db2b111fd7f2ea4238d564"
+			},
+			{
+				"$oid": "66db2b171fd7f2ea4238d566"
+			}
+		],
+		"__v": 0
+	}
+]

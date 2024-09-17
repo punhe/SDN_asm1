@@ -1,0 +1,162 @@
+[
+	{
+		"_id": {
+			"$oid": "66db2abb1fd7f2ea4238d54c"
+		},
+		"text": "What is the capital of France?",
+		"options": ["Berlin", "Madrid", "Paris", "Rome"],
+		"keywords": ["capital", "france"],
+		"correctAnswerIndex": 2,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2ac71fd7f2ea4238d54e"
+		},
+		"text": "Which city is known as the capital of Japan?",
+		"options": ["Tokyo", "Kyoto", "Osaka", "Nagoya"],
+		"keywords": ["capital", "japan"],
+		"correctAnswerIndex": 0,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2ad21fd7f2ea4238d550"
+		},
+		"text": "What is the capital city of Australia?",
+		"options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+		"keywords": ["capital", "australia"],
+		"correctAnswerIndex": 2,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2ad91fd7f2ea4238d552"
+		},
+		"text": "Which city is the capital of Canada?",
+		"options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+		"keywords": ["capital", "canada"],
+		"correctAnswerIndex": 2,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2adf1fd7f2ea4238d554"
+		},
+		"text": "What is the capital of Italy?",
+		"options": ["Venice", "Florence", "Rome", "Milan"],
+		"keywords": ["capital", "italy"],
+		"correctAnswerIndex": 2,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2ae71fd7f2ea4238d556"
+		},
+		"text": "What is the largest ocean on Earth?",
+		"options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+		"keywords": ["ocean", "earth"],
+		"correctAnswerIndex": 3,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2aed1fd7f2ea4238d558"
+		},
+		"text": "Which planet is known as the Red Planet?",
+		"options": ["Earth", "Venus", "Mars", "Jupiter"],
+		"keywords": ["planet", "red"],
+		"correctAnswerIndex": 2,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2af41fd7f2ea4238d55a"
+		},
+		"text": "What chemical element has the symbol 'O'?",
+		"options": ["Oxygen", "Gold", "Silver", "Iron"],
+		"keywords": ["element", "symbol"],
+		"correctAnswerIndex": 0,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2afa1fd7f2ea4238d55c"
+		},
+		"text": "Which human organ is primarily responsible for pumping blood?",
+		"options": ["Liver", "Lung", "Kidney", "Heart"],
+		"keywords": ["organ", "blood"],
+		"correctAnswerIndex": 3,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2b001fd7f2ea4238d55e"
+		},
+		"text": "What is the currency of Japan?",
+		"options": ["Yuan", "Won", "Yen", "Dollar"],
+		"keywords": ["currency", "japan"],
+		"correctAnswerIndex": 2,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2b071fd7f2ea4238d560"
+		},
+		"text": "What is the boiling point of water at sea level?",
+		"options": ["100°C", "90°C", "80°C", "110°C"],
+		"keywords": ["boiling", "water"],
+		"correctAnswerIndex": 0,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2b0c1fd7f2ea4238d562"
+		},
+		"text": "Who wrote the play 'Romeo and Juliet'?",
+		"options": [
+			"Charles Dickens",
+			"William Shakespeare",
+			"Jane Austen",
+			"Mark Twain"
+		],
+		"keywords": ["play", "romeo", "juliet"],
+		"correctAnswerIndex": 1,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2b111fd7f2ea4238d564"
+		},
+		"text": "What is the smallest prime number?",
+		"options": ["0", "1", "2", "3"],
+		"keywords": ["prime", "number"],
+		"correctAnswerIndex": 2,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2b171fd7f2ea4238d566"
+		},
+		"text": "What is the chemical formula for table salt?",
+		"options": ["NaCl", "KCl", "CaCO3", "H2O"],
+		"keywords": ["chemical", "salt"],
+		"correctAnswerIndex": 0,
+		"__v": 0
+	},
+	{
+		"_id": {
+			"$oid": "66db2b1c1fd7f2ea4238d568"
+		},
+		"text": "Who was the first person to walk on the moon?",
+		"options": [
+			"Buzz Aldrin",
+			"Neil Armstrong",
+			"Michael Collins",
+			"Yuri Gagarin"
+		],
+		"keywords": ["moon", "first"],
+		"correctAnswerIndex": 1,
+		"__v": 0
+	}
+]
